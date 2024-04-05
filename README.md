@@ -1,0 +1,1 @@
+En este proyecto vamos a construir un predictor de precios de alquiler temporal para las pequeñas propiedades en venta en la ciudad de Buenos Aires, tratando de estimar su potencial como inversión inmobiliaria e identificar oportunidades de inversión. 
